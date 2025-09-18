@@ -1,0 +1,4 @@
+CODIGO 	 NOME 	 VALOR R$
+1 	 DIEGO 	 R$1.00
+2 	 ALINE 	 R$2.00
+3 	 CALESCO 	 R$3.00

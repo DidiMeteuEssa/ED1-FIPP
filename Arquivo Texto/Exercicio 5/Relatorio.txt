@@ -1,0 +1,9 @@
+Numeros sorteados: [5] [10] [15] [8] [16] 
+
+Aposta Nr. 1 acertou um terno!
+Numeros apostados: [5] [15] [8] [22] [43] [53] [32] 
+Numeros acertados: [5] [15] [8] 
+
+Aposta Nr. 2 acertou um terno!
+Numeros apostados: [10] [23] [43] [15] [16] [9] [44] 
+Numeros acertados: [10] [15] [16] 
