@@ -10,7 +10,7 @@
 char Menu() 
 {
 	system("cls");
-	printf("\n### M E N U - FILA ###\n");
+	printf("\n### M E N U - FILA COM PRIORIDADE  ###\n");
 	printf("\n[A] Inicializar");
 	printf("\n[B] Inserir");
 	printf("\n[C] Retirar");
